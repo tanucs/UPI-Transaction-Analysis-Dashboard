@@ -1,33 +1,30 @@
 # UPI-Transaction-Analysis
 An interactive Power BI dashboard analyzing UPI transaction data to uncover trends in transaction volume, payment modes, customer demographics, and monthly patterns, helping understand digital payment behavior using structured financial data.
 
-# 📈 Sales Data Analysis using Python
+# 💳 UPI Transaction Analysis Dashboard
 
 ## 📌 Overview
-This project performs exploratory data analysis on sales data to identify
-revenue trends, top-performing products, and regional performance.
+This project analyzes UPI transaction data to understand transaction trends,
+payment modes, and customer behavior using Power BI.
 
 ## 🧰 Tools Used
-- Python
-- Pandas
-- Matplotlib
-- Jupyter Notebook
+- Power BI
+- Microsoft Excel
 
 ## 📂 Dataset
-- Format: Feather (.ftr)
-- Type: Structured sales data
-- Note: Feather format is used for faster data processing.
+- Format: Excel (.xlsx)
+- Type: Structured financial transaction data
 
-## 🔍 Analysis Performed
-- Data cleaning
-- Sales trend analysis
-- Product-wise revenue
-- Region-wise performance
+## 📊 Key Insights
+- Monthly transaction trend analysis
+- Payment mode comparison
+- Customer age-wise transaction behavior
+- Currency and merchant analysis
 
-## 📊 Visualizations
-- Line charts
-- Bar charts
+## 📈 Dashboard Features
+- Interactive filters
+- KPI cards
+- Trend charts
 
 ## 🎯 Conclusion
-The analysis helps businesses understand sales patterns and optimize strategies.
-
+The dashboard provides actionable insights into digital payment usage patterns.
