@@ -1,6 +1,8 @@
 # UPI-Transaction-Analysis
 An interactive Power BI dashboard analyzing UPI transaction data to uncover trends in transaction volume, payment modes, customer demographics, and monthly patterns, helping understand digital payment behavior using structured financial data.
 
+![UPI Data Analytics Banner](https://github.com/tanucs/UPI-Transaction-Analysis-Dashboard/blob/main/UPI%20Banner.png)
+
 # 💳 UPI Transaction Analysis Dashboard
 
 ## 📌 Overview
